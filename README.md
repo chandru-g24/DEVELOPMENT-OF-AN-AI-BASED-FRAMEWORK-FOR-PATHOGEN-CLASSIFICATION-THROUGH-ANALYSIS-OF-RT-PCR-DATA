@@ -1,0 +1,2 @@
+# DEVELOPMENT-OF-AN-AI-BASED-FRAMEWORK-FOR-PATHOGEN-CLASSIFICATION-THROUGH-ANALYSIS-OF-RT-PCR-DATA
+We're developing AI software to classify pathogens using RT-PCR data, aiming to improve disease diagnosis. It's a pioneering project involving collaboration between experts in data science, medicine, and biology. By combining expertise, we're striving to revolutionize disease diagnosis for faster and more accurate results.
